@@ -9,3 +9,12 @@ The sum of these multiples are 23.
 Finish the solutions so that it returns the sum of all the multiples of 3 or 5 below the number passed in.
 
 Note: If the number is a multiple of both 3 and 5, only count it once. 
+
+**Sample Input**
+```
+solution(10);
+``` 
+**Sample Output**
+```
+23
+```  
